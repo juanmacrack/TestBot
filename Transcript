@@ -1,0 +1,5 @@
+$ git init
+$ git add .
+$ git commit -m "Initial commit of HTML files"
+$ git remote add origin <remote-repository-url>
+$ git push -u origin master
